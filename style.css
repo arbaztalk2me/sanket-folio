@@ -1,0 +1,95 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+#title{
+    background-color: #f9c74f;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top:250px;
+}
+.container-fluid{
+    color: #001219;
+    padding: 3% 15%;
+
+}
+.navbar-brand{
+    
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-link{
+    font-size: 1.3rem;
+}
+.row{
+    margin-top: 5rem;
+}
+.android-mob-img{
+    transform: rotate(25deg);
+    width: 60%;
+}
+.content-name-box>h1{
+    color: #001219;
+}
+.content-name-box>h2{
+    color: #001219;
+}
+h1{
+    font-size:4rem;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    color: #f9c74f;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #f9c74f;
+    font-weight: 600;
+}
+
+h3
+{
+    color: #f9c74f;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    display: inline-block;
+}
+.main-img{
+    margin: auto;
+}
+
+.top-cloud{
+    position:absolute;
+   right: 150px;
+    top: 20px;
+    width: 230px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 80px;
+    bottom: 300px;
+    width: 230px;
+}
+.profile-pic{
+    
+    height: 300px;
+}
+hr{
+    border: dotted #EAF9F5 6px;
+    border-bottom: none;
+    width: 25%;
+}
+.footer{
+    
+    background-color: #f9c74f;
+}
+.footer a{
+    color:#001219;
+}
+
