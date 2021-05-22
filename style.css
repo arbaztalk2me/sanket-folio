@@ -14,7 +14,7 @@ body{
 }
 .container-fluid{
     color: #001219;
-    padding: 3% 15%;
+    padding: 3% 15% 8%;
 
 }
 .navbar-brand{
@@ -31,7 +31,11 @@ body{
 .android-mob-img{
     transform: rotate(25deg);
     width: 60%;
+    position: absolute;
+    
+    
 }
+
 .content-name-box>h1{
     color: #001219;
 }
@@ -49,6 +53,12 @@ h2{
     font-size: 2rem;
     color: #f9c74f;
     font-weight: 600;
+}
+.name{
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    bottom: 15px;
 }
 
 h3
