@@ -99,7 +99,17 @@ hr{
     
     background-color: #f9c74f;
 }
-.footer a{
+.footer a,p{
     color:#001219;
+}
+@media(max-width:880px){
+    #title{
+        text-align: center;
+    }
+    .android-mob-img{
+        padding-top: 10px;
+        position: static;
+        transform: rotate(0);
+    }
 }
 
